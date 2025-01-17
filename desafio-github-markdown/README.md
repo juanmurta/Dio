@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  FullStack Developer • Tech Instructor • Youtuber
+  Teste de funcionalidades do Git
 </h3>
 
 <div align='center'>
@@ -23,7 +23,7 @@
 
 <div><br />
 
-<p><strong>About me Copia do readme</strong></p>
+<p><strong>About me</strong></p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
